@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_hot_line/data/hotline.dart';
+import 'package:flutter_hot_line/data/views/sub_home_ui.dart';
+
+class SubCHomeUi extends StatefulWidget {
+  const SubCHomeUi({super.key});
+
+  @override
+  State<SubCHomeUi> createState() => _SubCHomeUiState();
+}
+
+class _SubCHomeUiState extends State<SubCHomeUi> {
+  @override
+  Widget build(BuildContext context) {
+    return SubHomeUI(
+      categoryTitle: "ธนาคาร",
+      hotlineList: HotlineData.bankHotlines,
+      themeColor: const Color.fromARGB(255, 161, 114, 243),
+      onInfoPressed: () => Navigator.pushNamed(context, '/about'),
+    );
+  }
+}
