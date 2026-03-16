@@ -134,12 +134,12 @@ class HotlineData {
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "ธนาคารกสิกรไทย",
-        number: "028888888",
+        number: "02 888 8888",
         imagePath: "assets/images/kb.gif",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "ธนาคารกรุงไทย",
-        number: "021111111",
+        number: "02 111 1111",
         imagePath: "assets/images/next.gif",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
@@ -149,7 +149,7 @@ class HotlineData {
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "ธนาคารไทยพาณิชย์",
-        number: "027777777",
+        number: "02 777 7777",
         imagePath: "assets/images/scb.gif",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
@@ -169,37 +169,37 @@ class HotlineData {
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "ธนาคารอาคารสงเคราะห์",
-        number: "026459000",
-        imagePath: "assets/images/026459000.png",
+        number: "02 645 9000",
+        imagePath: "assets/images/ghb.gif",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "ธนาคารเกียรตินาคินภัทร",
-        number: "021655555",
+        number: "02 165 5555",
         imagePath: "assets/images/kai.gif",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "ธนาคารซีไอเอ็มบีไทย",
-        number: "026267777",
+        number: "02 626 7777",
         imagePath: "assets/images/026267777.png",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "ธนาคารไทยเครดิต",
-        number: "026975454",
+        number: "02 697 5454",
         imagePath: "assets/images/026975454.png",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "UOB",
-        number: "022851555",
+        number: "02 285 1555",
         imagePath: "assets/images/UOB.jpg",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "TISCO",
-        number: "026336000",
+        number: "02 633 6000",
         imagePath: "assets/images/tis.jpg",
         themeColor: Colors.deepPurpleAccent),
     Hotline(
         name: "ธนาคารอิสลาม แห่งประเทศไทย",
-        number: "022042766",
+        number: "02 204 2766",
         imagePath: "assets/images/022042766.png",
         themeColor: Colors.deepPurpleAccent),
   ];
